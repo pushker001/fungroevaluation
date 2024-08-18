@@ -4,8 +4,8 @@
   
   .flip-card {
     position: relative;
-    width: 50vh; /* Tailwind w-64 */
-    height: 50vh; /* Tailwind h-40 */
+    width: 40vh; /* Tailwind w-64 */
+    height: 40vh; /* Tailwind h-40 */
     transform-style: preserve-3d;
     transition: transform 0.6s ease; /* Smooth transition */
   }
