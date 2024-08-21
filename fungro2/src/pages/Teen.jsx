@@ -5,7 +5,7 @@ import { FaMoneyBill, FaApple, FaComputer } from "react-icons/fa6";
 import { IoLogoAndroid } from "react-icons/io";
 import Card from '../component/Card';
 import FlipCard from '../component/FlipCard';
-import '../Flipcard.css';
+import '../FlipCard.css'
 import Avatar from '../component/Avatar';
 import img1 from '../assets/img1.png';
 import img2 from '../assets/img2.png';
